@@ -1,1 +1,1 @@
-# CodeAlpha_Social-Media-Platform
+# social-media-app--ML

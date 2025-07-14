@@ -1,6 +1,6 @@
 const Post = require('../models/Post');
 const User = require('../models/User');
-const Tag = require('../models/Tag'); // Add this at the top
+const Tag = require('../models/Tag'); 
 const { getPersonalizedScores } = require('../utils/recommendation');
 
 const createPost = async (req, res) => {
